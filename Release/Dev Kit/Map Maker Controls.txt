@@ -1,0 +1,34 @@
+Caps Lock{
+	on = WASD moves map
+	off = WASD moves cursor
+}
+
+
+Arrows - alter map size
+Space - Place tile
+Escape - Save, Export, Reset block variables, Reload
+? - Reset block variables, Reload without saving
+ 
+/ - Reset caret and offset to 0,0
++ - Selected tile plus 
+- - Selected tile minus
+
+E - Toggle layer to place
+
+//Ensure numlock is on.
+0 - Place Secondary Tile (Layer Sensitive)
+1 - Toggle CharSet (Background) visibility
+2 - Toggle ItemSet (ForeGround) visibility
+3 - Select item under caret (Layer Sensitive)
+4 - decrease brush size
+5 - increase brush size
+6 - Append Brush (Layer Sensitive)
+7 - Replace Brush (Layer Sensitive)
+8 - Fills entire layer with selected tile (Layer Sensitive)
+9 - Switch layers of tiles under caret
+* - Push selected tile to secondary
+. (NUM Del) - Delete (Layer Sensitive)
+
+
+Other todo
+use caret to move offset (Camera)

@@ -1,0 +1,11 @@
+WindowWidth,WindowHeight,FrameLimit,FirstTime?,audio enabled?,autoload?,load path
+LoadedMap,CharX,CharY,MapOffsetX,MapOffsetY,DeveloperMode
+Vehicle1,Vehicle2,Vehicle3,Vehicle4
+InventoryLength,Inventoryitem,..
+,
+,
+,
+,
+,
+LoadedTileSet
+
